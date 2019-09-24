@@ -5,11 +5,19 @@ body {
 	text-align: justify;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	color: #333333;
+	font-weight: normal;
 }
 
 h1, h2, h3 {
 	text-transform: lowercase;
-	color: #000099;
+	color: #003099;
+}
+
+h1 {
+    font-size:32px;}
+
+h2 {
+    font-size: 22px;
 }
 
 ul {
@@ -19,7 +27,8 @@ ul {
 }
 
 a {
-	color: #000099;
+	color: #003099;
+	text-decoration: none;
 }
 
 a:hover {
@@ -41,24 +50,26 @@ a:hover {
 	padding: 20px 0px 0px 0px;
 }
 
-#header h2 {
+/*#header h2 {
 	float: right;
 	margin: 0px;
 	padding: 27px 0px 0px 0px;
-}
+}*/
 
 /** MENU */
 
 #menu {
-	width: 700px;
-	height: 1.5em;
-	margin: 0px auto;
+	float: right;
+	padding-right: 0px; 
+/*	width: 700px;*/
+/*	height: 1.5em;*/
+/*	margin: 0px auto;*/
 /*	border: 1px solid #000099;*/
 }
 
 #menu ul {
 	margin: 0px;
-	padding: 0px;
+	padding: 25px 0 0 0;
 	list-style: none;
 }
 
@@ -69,14 +80,17 @@ a:hover {
 #menu a {
 	display: block;
 	float: left;
-	padding: 3px 10px;
-	border-right: 1px solid #000099;
+	padding: 8px 15px;
+	font-size: 15px;
+/*	border-right: 1px solid #000099;*/
 	text-decoration: none;
 }
 
 #menu a:hover {
-	background: #000099;
-	color: #FFFFFF;
+/*	background: #000099;*/
+	border-bottom: 3px #FFFFFF solid;
+	text-decoration: none;
+/*	color: #FFFFFF;*/
 }
 
 /** CONTENT */
@@ -92,12 +106,13 @@ a:hover {
 
 #left {
 	float: left;
-	width: 480px;
+	width: 455px;
 }
 
 #right {
 	float: right;
-	width: 200px;
+	width: 215px;
+	padding-top: 30px;
 }
 
 /** FOOTER */
@@ -106,12 +121,14 @@ a:hover {
 	clear: both;
 	width: 680px;
 	margin: 0px auto;
+/*	float: left;*/
 	padding: 5px 10px;
-	border: 1px solid #000099;
+/*	border: 1px solid #000099;*/
 }
 
 #footer p {
 	margin: 0px;
-	padding: 0px;
+	padding-top: 10px;
+	padding-left: -10px;
 	font-size: x-small;
 }
