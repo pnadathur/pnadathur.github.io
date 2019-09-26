@@ -20,11 +20,17 @@ h2 {
     font-size: 22px;
 }
 
-ul {
-	margin-left: 0px;
-	padding-left: 1em;
-	list-style-position: inside;
+h3{
+    font-size: 17px;
 }
+
+dl{
+    margin-left: 0px;
+    padding-left: 1em;
+    list-style-position:inside;
+}
+
+
 
 a {
 	color: #003099;
@@ -81,6 +87,7 @@ a:hover {
 	display: block;
 	float: left;
 	padding: 8px 15px;
+	padding-right: 5px;
 /*	font-size: 15px;*/
 /*	border-right: 1px solid #000099;*/
 	text-decoration: none;
@@ -104,6 +111,8 @@ a:hover {
 	font-weight: normal;
 }
 
+
+
 #left {
 	float: left;
 	width: 435px;
@@ -119,16 +128,17 @@ a:hover {
 
 #footer {
 	clear: both;
-	width: 680px;
+	width: 700px;
 	margin: 0px auto;
 /*	float: left;*/
-	padding: 5px 10px;
+	padding: 0px 0px;
 /*	border: 1px solid #000099;*/
 }
 
 #footer p {
 	margin: 0px;
-	padding-top: 10px;
-	padding-left: -10px;
+	padding-top: 0px;
+	padding-left: 0px;
+	float: right;
 	font-size: x-small;
 }
