@@ -2,11 +2,11 @@
 /** BASIC */
 
 body {
-	text-align: justify;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	color: #333333;
 	font-weight: normal;
 }
+
 
 h1, h2, h3 {
 	text-transform: lowercase;
@@ -28,6 +28,7 @@ dl{
     margin-left: 0px;
     padding-left: 1em;
     list-style-position:inside;
+
 }
 
 
