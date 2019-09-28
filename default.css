@@ -5,6 +5,7 @@ body {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	color: #333333;
 	font-weight: normal;
+	padding: 20px;
 }
 
 
@@ -22,6 +23,11 @@ h2 {
 
 h3{
     font-size: 17px;
+}
+
+hr {
+    border-top: none;
+    border-bottom: 1px solid #ccc;
 }
 
 dl{
@@ -46,8 +52,7 @@ a:hover {
 /** HEADER */
 
 #header {
-	width: 700px;
-	height: 60px;
+	max-width: 700px;
 	margin: 0px auto;
 }
 
@@ -87,11 +92,14 @@ a:hover {
 #menu a {
 	display: block;
 	float: left;
-	padding: 8px 15px;
-	padding-right: 5px;
+	padding: 8px 13px 15px 0px;
 /*	font-size: 15px;*/
 /*	border-right: 1px solid #000099;*/
 	text-decoration: none;
+}
+
+#menu li:last-child a {
+    padding-right: 0;
 }
 
 #menu a:hover {
@@ -102,9 +110,13 @@ a:hover {
 }
 
 /** CONTENT */
+p {
+    text-align: justify;
+}
+
 
 #content {
-	width: 700px;
+	max-width: 700px;
 	margin: 0px auto;
 }
 
@@ -116,20 +128,50 @@ a:hover {
 
 #left {
 	float: left;
-	width: 435px;
+	width: 60%;
 }
 
 #right {
 	float: right;
-	width: 235px;
+	width: 35%;
+	margin-left: 5%;
 	padding-top: 30px;
+}
+
+#self {
+    width:100%;
+}
+
+#header:after, #menu::after, #menu ul::after, #content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width:640px) {
+    p {
+	text-align: left;
+	line-height: 150%;
+    }
+
+    #left, #right, #menu, #header h1 {
+	margin: 0px;
+	float: initial;
+	width: 100%;
+    }
+
+    #self {
+	width:100%;
+	height:200px;
+	object-fit: cover;
+    }
 }
 
 /** FOOTER */
 
 #footer {
 	clear: both;
-	width: 700px;
+	max-width: 700px;
 	margin: 0px auto;
 /*	float: left;*/
 	padding: 0px 0px;
@@ -143,3 +185,4 @@ a:hover {
 	float: right;
 	font-size: x-small;
 }
+
