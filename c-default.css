@@ -10,12 +10,11 @@ body {
 
 
 h1, h2, h3 {
-	text-transform: lowercase;
 	color: #003099;
 }
 
 h1 {
-    font-size:32px;}
+    font-size:24px;}
 
 h2 {
     font-size: 22px;
@@ -49,6 +48,25 @@ a:hover {
 	color: #990000;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+    padding: 5px;
+    height: 15px;
+    
+}
+
+
 /** HEADER */
 
 #header {
@@ -62,11 +80,11 @@ a:hover {
 	padding: 20px 0px 0px 0px;
 }
 
-/*#header h2 {
+#header h2 {
 	float: right;
 	margin: 0px;
 	padding: 27px 0px 0px 0px;
-}*/
+}
 
 /** MENU */
 
@@ -75,7 +93,7 @@ a:hover {
 	padding-right: 0px; 
 /*	width: 700px;*/
 /*	height: 1.5em;*/
-/*	margin: 0px auto;*/
+	margin: 0px auto;
 /*	border: 1px solid #000099;*/
 }
 
@@ -92,7 +110,7 @@ a:hover {
 #menu a {
 	display: block;
 	float: left;
-	padding: 8px 13px 15px 0px;
+	padding: 2px 35px 15px 0px;
 /*	font-size: 15px;*/
 /*	border-right: 1px solid #000099;*/
 	text-decoration: none;
@@ -113,6 +131,7 @@ a:hover {
 p {
     text-align: justify;
 }
+
 
 
 #content {
