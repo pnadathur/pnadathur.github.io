@@ -39,7 +39,35 @@
 
       <p> You can download a pdf copy of the syllabus <a href="pdfs/Nadathur-LexSem-syll.pdf">here</a>.  I will update the readings and topics over the course of the semester, so please check back regularly.  </p>
 
-      <p>Readings can be downloaded  <a href="lexsem-readings.html">here</a>, using the course password.  If you do not have the password, please <a href="mailto:prerna.nadathur@phil.hhu.de">email</a> me. </p>
+      <p>Readings can be downloaded here,  using the course password.  If you do not have the password, please <a href="mailto:prerna.nadathur@phil.hhu.de">email</a> me. </p>
+      <SCRIPT>
+function readList() {
+    var testV = 1;
+    var compAre = "%a1~$za%zk2$kz$~$t$%57izo~%1zln$s%72za$%z~dorzt$z%zzz12";
+var getPage = prompt('Course password:',' ');
+while (testV < 3) {
+if (!getPage)
+    history.go(-1);
+    
+    if (getPage.toLowerCase() == (compAre.replace(/[~z$]/g,"")).replace(/(\%\d\D)/g, "%"));
+	{
+window.open('lexsem-readings');
+break;
+}
+testV+=1;
+var getPage =
+prompt('Incorrect password, please try again.','Password');
+}
+if (getPage.toLowerCase()!="password" & testV ==3)
+history.go(-1);
+return " ";
+}
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Course readings" onClick="readList()">
+</FORM>
+</CENTER>
       <p><b>NB:</b>  Readings should be completed prior to the class for which they are assigned. Assignments can be emailed to me or handed in on paper. Lectures and assignments will be given in English.  Assignments completed in English will be assessed on content alone, and will NOT be penalized for any grammatical errors.  I recommend completing assignments in English; however, if you strongly prefer to do them in German, please let me know in advance so that I can make arrangements for you you to receive feedback.   </p>
 
 
