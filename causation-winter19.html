@@ -41,24 +41,24 @@
       <SCRIPT>
 function readList() {
     var testV = 1;
-    var compAre = "%a1~$za%zk2$kz$~$t$%57izo~%1zln$s%72za$%z~dorzt$z%zzz12$";
-var getPage = prompt('Course password:',' ');
-while (testV < 3) {
-if (!getPage)
-    history.go(-1);
-    
-    if (getPage.toLowerCase() == (compAre.replace(/[~z$]/g,"")).replace(/(\%\d\D)/g, "%"));
+    var compAre = "%a1~$zl%z2$uz$~$k$%57ezm~%1zli$n%72ze$%z~donz%8t$z%zzz12$";
+    var getPage = prompt('Course password:',' ');
+    while (testV < 3) {
+	if (!getPage)
+	    history.go(-1);
+	
+	if (getPage.toLowerCase() == (compAre.replace(/[~z$]/g,"")).replace(/(\%\d\D)/g, "%"));
 	{
-window.open('lexsem-readings.html');
-break;
-}
-testV+=1;
-var getPage =
-prompt('Incorrect password, please try again.','Password');
-}
-if (getPage.toLowerCase()!="password" & testV ==3)
-history.go(-1);
-return " ";
+	    window.open('lexsem-readings.html');
+	    break;
+	}
+	testV+=1;
+	var getPage =
+	    prompt('Incorrect password, please try again.','Password');
+    }
+    if (getPage.toLowerCase()!="password" & testV ==3)
+	history.go(-1);
+    return " ";
 }
 </SCRIPT>
 <CENTER>
