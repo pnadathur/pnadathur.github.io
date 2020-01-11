@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Causation in Semantics | 2019/2020</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="c-default.css" rel="stylesheet" type="text/css" />
+<meta content="width=device-width,minimum-scale=1" name=viewport>
+</head>
+<body>
+<div id="header">
+  <h1>Causation in Semantics & Grammatical Structure </h1>
+
+<div id="menu">
+  <ul>
+ 
+		<li><a href="teaching.html">teaching</a></li>
+	</ul>
+</div>
+
+</div>
+
+<div id="content">
+  <hr>
+    <div>
+      <h2>course information</h2>
+    <p><strong>Instructor:</strong> Prerna Nadathur  <a href="mailto:prerna.nadathur@phil.hhu.de">[email]</a></p>
+    <p><b>Office:</b> 24.53.00.87 (Department office: 24.53.00.86)</p>
+      <p><b>Schedule:</b> Th 16.30-18.00
+	<p><b>Location:</b>  24.21.U1.21 (Z50)</p>
+
+      <p><b>Course policies and requirements:</b> Please see the <a href="causation19/Nadathur-Causation-syll.pdf">syllabus</a>.<br></p>
+
+    <br>
+
+
+      <h2>course materials & schedule</h2>
+<p><b>All course materials will be posted on this page.  Please check back regularly.</b> Readings can be downloaded by clicking the following link and entering the course password.  If you do not have the password, please <a href="mailto:prerna.nadathur@phil.hhu.de">email</a> me.
+      <SCRIPT>
+function readList() {
+    var testV = 1;
+    var compAre = "%a1~$zl%z2$uz$~$k$%57ezm~%1zli$n%72ze$%z~donz%8t$z%zzz12$";
+    var getPage = prompt('Course password:',' ');
+    while (testV < 3) {
+	if (!getPage)
+	    history.go(-1);
+	
+	if (getPage.toLowerCase() == (compAre.replace(/[~z$]/g,"")).replace(/(\%\d\D)/g, "%"));
+	{
+	    window.open('causation-readings.html');
+	    break;
+	}
+	testV+=1;
+	var getPage =
+	    prompt('Incorrect password, please try again.','Password');
+    }
+    if (getPage.toLowerCase()!="password" & testV ==3)
+	history.go(-1);
+    return " ";
+}
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Course readings" onClick="readList()">
+</FORM>
+</CENTER>
+</p>
+
+
+<p> I recommend the following collection as a general resource for those interested in causation and recent semantic research in causation.  You should be able to access any of the chapters electronically, via the library:
+
+  <ul>
+    <li> Copley, B. & F. Martin.  2014.  <a href="https://katalog.ulb.hhu.de/Record/003694705"><i>Causation in Grammatical Structures.</i></a>  Oxford: Oxford University Press.
+    </li>
+  </ul>
+  </p>
+					   
+
+<p><b>NB:</b>  Readings should be completed prior to the class for which they are assigned. Lectures and supplementary material will be in English.  Reading responses completed in English will be assessed on content alone, and will NOT be penalized for any grammatical errors.  I recommend completing your responses in English; however, if you strongly prefer to do them in German, please let me know in advance so that I can make arrangements for you to receive feedback.   </p>
+
+<p>This schedule is tentative.  We may make adjustments to topics and readings as the course progresses.  <b>Last updated November 28.</b></p>
+
+	<div style="overflow-x:auto;">
+	  <table>
+	    <tr> <th>Week</th> <th>Date</th> <th>Topics</th> <th>Reading</th> <th>Assignment</th></tr>
+	    <tr> <td style="text-align: center;">1</td>
+	      <td style="text-align: center;">10.10.2019</td>
+	      <td>Introduction and background <br>
+		<a href="causation19/causation-intro.pdf">Handout</a></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+	    <tr> <td style="text-align: center;">2</td>
+	      <td style="text-align: center;">17.10.2019</td>
+	      <td>CAUSE and lexical decomposition<br>
+		<a href="causation19/causation-week2.pdf">Handout</a></td>
+	      <td>Dowty 1979 (excerpts); Fodor 1970; McCawley 1978</td>
+	      <td>Reading response due</td>     
+	    </tr>
+	    <tr>  <td style="text-align: center;">3</td>
+	      <td style="text-align: center;">24.10.2019</td>
+	      <td>Typology of causative constructions<br>
+		<a href="causation19/causation-week3.pdf">Slides</a></td>
+</td>
+	      <td>Comrie 1989 (Ch.8); Shibatani 1976 (excerpts); Bhatt 2003</td>
+	      <td>Response due</td>
+	    </tr>
+	     <tr>
+	      <td style="text-align: center;">4</td>
+	      <td style="text-align: center;">31.10.2019</td>
+	      <td>Direct and indirect causation<br>
+		<a href="causation19/causation-week4.pdf">Slides.</a></td>
+	      <td> Neeleman & van de Koot 2012</td>
+	      <td>Response due</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">5</td>
+	      <td style="text-align: center;">07.11.2019</td>
+	      <td>Direct causation and intervening causes<br>
+		<a href="causation19/causation-week5.pdf">Slides.</a></td>
+	      <td>Wolff 2003</td>
+	      <td>Response due</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">6</td>
+	      <td style="text-align: center;">14.11.2019</td>
+	      <td>The causative alternation<br>
+		<a href="causation19/causation-week6.pdf">Slides</a></td>
+	      <td> Levin 2015 (Secs 1, 2, 5); Levin & Rappaport Hovav 1994;<br>
+		<i>Optional overview:</i> Sch&auml;fer 2009<br>
+	<!--	  For the reading response, give a brief description of the causative alternation (with examples) in your own words, and identify one of the difficulties faced in analyzing it.  
+		 Levin 2015; Levin & Rappaport Hovav 1994, 2005; Chierchia 2004; Erteschik-Shir 1979; Pinon 2001 --></td>
+	      <td><a href="causation19/responseQ-w4.pdf">Response questions for Levin & Rappaport Hovav</a></td>
+	    </tr>
+	   <!-- <tr> <td style="text-align: center;">6</td>
+	      <td style="text-align: center;">14.11.2019</td>
+	      <td><!--Lexical and periphrastic causatives; parameters of variation-->
+	  <!--    The causative alternation, continued</td>
+	      <td>Alexiadou et al. 2006; Rappaport Hovav 2014<!-- Rappaport Hovav & Levin 2005, 2012 Shibatani 1976, Wierzbicka 1998</td>
+	      <td>Response 4 due</td>	     
+	    </tr> -->
+	    <tr>
+	      <td style="text-align: center;">7</td>
+	      <td style="text-align: center;">21.11.2019</td>
+	      <td>Internal and external causation<br>
+		  <a href="causation19/causation-week7.pdf">Slides</a></td>
+	      <td>McKoon & MacFarland 2000;  Wright 2002 <!--; Koontz-Garboden 2008; Rappaport Hovav 2019 --></td>
+	      <td><a href="causation19/responseQ-week7.pdf">Response questions</a> for internal/external causation</td>
+	    </tr>
+
+	    <tr> <td style="text-align: center;">8</td>
+	      <td style="text-align: center;">28.11.2019</td>
+	      <td>Agentive causation<br>
+		 <a href="causation19/causation-week8.pdf">Handout</a></td>
+	      <td>DeLancey 1984;  Kittil&auml; 2005 (optional)
+		 <!-- Folli & Harley 2002; Martin & Sch&auml;fer 2012;  Beavers & Zubair 2013--></td>
+	      <td><a href="causation19/responseQ-delancey.pdf">Response prompts</a> for DeLancey.</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">9</td>
+	      <td style="text-align: center;">05.12.2019</td>
+	      <td>Event structure<br>
+		<a href="causation19/causation-week9.pdf">Extended handout</a></td>
+	      <td>Davidson  1969; Croft 1991 (excerpts); Davidson 1967 (optional background)</td>
+	      <td>Response due</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">10</td>
+	      <td style="text-align: center;">12.12.2019</td>
+	      <td>Alternative approaches<br>
+		<a href="causation19/causation-week10.pdf">Slides</a></td>
+	      <td>Copley & Wolff 2014; Lewis 1973</td>
+	      <td>Response due</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">11</td>
+	      <td style="text-align: center;">19.12.2019</td>
+	      <td>Structural models for causation<br>
+		<a href="causation19/causation-week11.pdf">Slides</a></td>
+	      <td>Sloman 2005 (excerpts)</td>
+	      <td>Response due; requests for AP accomodations</td>
+	    </tr>
+	    <tr> <td style="text-align: center;">12</td>
+	      <td style="text-align: center;">09.01.2020</td>
+	     <td>Causal models continued</td>
+	      <td>Lauer & Nadathur 2019; Martin 2018<!--Schulz 2011;  Briggs 2012; Schulz & van Rooij 2019; Ciardelli et al 2017--></td>
+	      <td>Response due</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">13</td>
+	      <td style="text-align:center;">16.01.2020</td>
+	      <td>Sufficiency causatives
+		<tr>
+	      <td style="text-align: center;">14</td>
+		  <td style="text-align: center;">23.01.2020</td>
+	      <td>Force dynamics
+		</td>
+	      <td><!--Wolff 2003, 2007, 2014;-->Wolff 2014; Copley & Harley 2014 </td>
+	      <td>Response due<br>
+		AP: topic proposals accepted</td>
+	    </tr>
+	   <!-- <tr>
+	      <td style="text-align: center;">14</td>
+	      <td style="text-align: center;">23.01.2020</td>
+	      <td>Beyond causatives: modality</td>
+	      <td>Hobbs 2003</td>
+	      <td>Response due<br>
+		AP: topic proposals accepted</td>
+	      </tr> -->
+	      <tr>
+	    <td style="text-align: center;">15</td>
+	    <td style="text-align: center;">30.01.2020</td>
+	   <td>Beyond causatives: implicatives</td>
+	      <td>Baglini & Francez 2016</td>
+	      <td>No response due <br>
+	      AP: last day to submit topic proposals</td> 
+
+	 </table>
+</div> 
+
+
+	<br> <br> <br>
+
+
+
+	</div>
+</div>
+<div id="footer">
+  <hr>
+	<p>2019, all rights reserved.</p>
+</div>
+</body>
+</html>
