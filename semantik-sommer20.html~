@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Introduction to Modality | 2020</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="c-default.css" rel="stylesheet" type="text/css" />
+<meta content="width=device-width,minimum-scale=1" name=viewport>
+</head>
+<body>
+<div id="header">
+  <h1>Introduction to Modality, Summer 2020 </h1>
+
+<div id="menu">
+  <ul>
+    <li><a href="modality20/Nadathur-modality-syll.pdf">syllabus</a></li>
+		<li><a href="teaching.html">teaching</a></li>
+	</ul>
+</div>
+
+</div>
+
+<div id="content">
+  <hr>
+    <div>
+      <h2>course information</h2>
+    <p><strong>Instructor:</strong> Prerna Nadathur  <a href="mailto:prerna.nadathur@phil.hhu.de">[email]</a></p>
+    <p><b>Office:</b> 24.53.00.87 (Department office: 24.53.00.86)</p>
+      <p><b>Schedule:</b> Th 14.30-16.00
+	<p><b>Location:</b>  TBA</p>
+
+      <p><b>Course policies and requirements:</b> Please see the <a href="modality20/Nadathur-modality-syll.pdf">syllabus</a>.<br></p>
+
+    <br>
+
+
+      <h2>course materials & schedule</h2>
+      <p><b>All course materials will be posted on this page.  Please check back regularly.</b> Readings can be downloaded by clicking the following link and entering the course password.  If you do not have the password, please <a href="mailto:prerna.nadathur@phil.hhu.de">email</a> me.<br> <br>
+	 
+      <SCRIPT>
+function readList() {
+    var testV = 1;
+    var compString = "zz~amkq$$zrmmmti$zazp$qztk$ae$";
+    var getPage = prompt('Course password:',' ');
+    while (testV < 3) {
+	if (!getPage)
+	    history.go(-1);
+	if (getPage.toLowerCase() == compString.replace(/[~zamqt$]/g,"")){
+	    window.open('modality-readings.html');
+	    break;
+	}
+	testV+=1;
+	var getPage = prompt('Incorrect password, please try again.','Password');
+    }
+if (getPage.toLowerCase()!="password" & testV ==3)
+history.go(-1);
+return " ";
+}
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Course readings" onClick="readList()">
+</FORM>
+</CENTER>
+</p>
+
+      <p><b>NB:</b>  Readings should be completed prior to the class for which they are assigned. Assignments can be emailed to me or handed in on paper. Lectures and assignments will be given in English.  Assignments completed in English will be assessed on content alone, and will NOT be penalized for any grammatical errors.  I recommend completing assignments in English; however, if you strongly prefer to do them in German, please let me know in advance so that I can make arrangements for you to receive feedback.   </p>
+
+
+	<div style="overflow-x:auto;">
+	  <table>
+	    <tr> <th>Week</th> <th>Date</th> <th>Topics</th> <th>Reading</th> <th>Assignment</th></tr>
+	    <tr> <td style="text-align: center;">1</td>
+	      <td style="text-align: center;">09.04.2020</td>
+	      <td>Introduction<br></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+	    <tr> <td style="text-align: center;">2</td>
+	      <td style="text-align: center;">16.04.2020</td>
+	      <td>Formal basics<br></td>
+	      <td>von Fintel & Heim 2011 (1-2), Kaufmann et al 2006 </td>
+	      <td></td>   
+	    </tr>
+	    <tr>  <td style="text-align: center;">3</td>
+	      <td style="text-align: center;">23.04.2020</td>
+	      <td>Premise semantics for modals</td>
+	      <td>Portner 2009 (1-2), von Fintel & Heim 2011 (3)</td>
+	      <td>Assignment 1 due</td>
+	    </tr>
+	    <tr> <td style="text-align: center;">4</td>
+	      <td style="text-align: center;">30.04.2020</td>
+	      <td>Premise semantics continued</td>
+	      <td>Lewis 1975, Kratzer 1981, 1991</td>
+	      <td></td>	     
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">5</td>
+	      <td style="text-align: center;">07.05.2020</td>
+	      <td>Epistemic modals</td>
+	      <td>von Fintel & Gillies 2007, 2008</td>
+	      <td>Assignment 2 due</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">6</td>
+	      <td style="text-align: center;">14.05.2020</td>
+	      <td>Attitudes and evidentials</td>
+	      <td>Stephenson 2007, Anand & Hacquard 2008</td>
+	      <td></td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">7</td>
+	      <td style="text-align: center;">28.05.2020</td>
+	      <td>Modal force</td>
+	      <td>von Fintel & Iatridou 2008, Deal 2011, Yanovich 2016</td>
+	      <td>Assignment 3 due</td>
+	    </tr>
+	    <tr> <td style="text-align: center;">8</td>
+	      <td style="text-align: center;">04.06.2020</td>
+	      <td>Deontic modals</td>
+	      <td>Portner 2009 (4), von Fintel & Heim 2011 (5), von Fintel 2012</td>
+	      <td></td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">9</td>
+	      <td style="text-align: center;">18.06.2020</td>
+	      <td>Ability modals and actuality entailments</td>
+	      <td>Brown 1988, Mandelkern et al 2017, Nadathur 2019 (1-2), Hacquard 2016</td>
+	      <td></td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">10</td>
+	      <td style="text-align: center;">25.06.2020</td>
+	      <td>Conditionals: overview</td>
+	      <td>von Fintel & Heim 2011 (4), Kratzer 1986, von Fintel & Iatridou 2002</td>
+	      <td>Assignment 4 due</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">11</td>
+	      <td style="text-align: center;">02.07.2020</td>
+	      <td>Counterfactuals and similarity</td>
+	      <td>Stalnaker 1968, Lewis 1973, 1981</td>
+	      <td></td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">12</td>
+	      <td style="text-align: center;">09.07.2020</td>
+	      <td>Indicative and subjunctive conditionals</td>
+	      <td>Grice 1967, Stalnaker 1975, Leahy 2011, Heim 1992, Ippolito 2006</td>
+	      <td></td>
+	    </tr>
+	    <tr>
+	      <td style="text-align: center;">13</td>
+	      <td style="text-align: center;">16.07.2020</td>
+	      <td>Pragmatic interpretation of conditionals</td>
+	      <td>Geis & Zwicky 1971, van der Auwera 1997, Nadathur 2013 (3-4), Austin 1961, Franke 2007</td>
+	      <td>Assignment 5 due</td>
+	    </tr>
+	    
+
+	 </table>
+</div>
+
+	<br> <br> <br>
+
+
+
+	</div>
+</div>
+<div id="footer">
+  <hr>
+	<p>2020, all rights reserved.</p>
+</div>
+</body>
+</html>
