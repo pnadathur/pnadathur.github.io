@@ -31,7 +31,7 @@
       <p><b>Schedule:</b> Th 14.30-16.00
 	<p><b>Location:</b>  TBA</p>
 
-      <p><b>Course policies and requirements:</b> Please see the <a href="lexsem19/Nadathur-modality-syll.pdf">syllabus</a>.<br></p>
+      <p><b>Course policies and requirements:</b> Please see the <a href="modality20/Nadathur-modality-syll.pdf">syllabus</a>.<br></p>
 
     <br>
 
@@ -42,22 +42,18 @@
       <SCRIPT>
 function readList() {
     var testV = 1;
-    var compAre = "%a1~$zk%zr2$kz$~$i$%57pzk~%1zle$s%72z$z%zzz12$";
-    
-var getPage = prompt('Course password:',' ');
-while (testV < 3) {
-if (!getPage)
-    history.go(-1);
-    
-    if (getPage.toLowerCase() == (compAre.replace(/[~z$]/g,"")).replace(/(\%\d\D)/g, "%"));
-	{
-window.open('modality-readings.html');
-break;
-}
-testV+=1;
-var getPage =
-prompt('Incorrect password, please try again.','Password');
-}
+    var compString = "zz~amkq$$zrmmmti$zazp$qztk$ae$";
+    var getPage = prompt('Course password:',' ');
+    while (testV < 3) {
+	if (!getPage)
+	    history.go(-1);
+	if (getPage.toLowerCase() == compString.replace(/[~zamqt$]/g,"")){
+	    window.open('modality-readings.html');
+	    break;
+	}
+	testV+=1;
+	var getPage = prompt('Incorrect password, please try again.','Password');
+    }
 if (getPage.toLowerCase()!="password" & testV ==3)
 history.go(-1);
 return " ";
