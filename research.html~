@@ -97,6 +97,16 @@
 		<h2>ongoing work</h2>
 		<dl style="list-style-type:none;">
 
+		  <dt><b>Causal models for event types and event structure</b>
+		    <br>Complex, bounded  event types (e.g., accomplishments) link together simpler events, states, properties, and individuals/thematic roles with respect to their relationship to  a goal or point of culmination.  Type-level causal models provide a way of capturing the world knowledge that constitutes these types and feeding into lexical semantic structure in a way that interacts with (non-)culminating interpretations under modification by grammatical aspects and  aspectual verbs.  Joint work with <a href=https://scholars.huji.ac.il/elitzurbarashersiegal/home>Elitzur Bar-Asher Siegal.</a></dt>
+		  </dl>
+		  <ul style="list-style-type:disc;">
+		    <li>2022, with Elitzur Bar-Asher Siegal. [Talk]  Aiming at culmination: causal models, event types, and the imperfective paradox.<i> <a href="https://ail-workshop.github.io/AIL2-Workshop/">Agency and Intentions in Language 2 (AIL2),</a></i> Harvey Mudd College.  Jan 12-14.</li>
+		    <li>2021, with Elitzur Bar-Asher Siegal. <a href="pdfs/Modelingprogress-HUJI-Nov21.pdf">[Seminar]</a> Modeling progress: event types, causal models, and the imperfective paradox. Department of Linguistics, Hebrew University of Jerusalem.  Nov 30.</li>
+		    <li> 2021, with Elitzur Bar-Asher Siegal.  [Workshop presentation] Modeling progress towards completion: causal models and the imperfective paradox. <i>Convering on Causal Ontology Analyses (COCOA).</i> July 10.</li>
+		  </ul>
+		  
+<dl style="list-style-type:none;">
 		  <dt><b>Causation, semantics of aspect and telicity</b>
 		    <br>A causal approach to the mereological structure of telic predicates,
 		      extensional approaches to (non-)culminating aspects. Joint work with <a
