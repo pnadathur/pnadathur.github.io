@@ -18,7 +18,7 @@
 		<li class="current_page_item"><a href="index.html">about</a></li>
 		<li><a href="research.html">research</a></li>
 		<li><a href="teaching.html">teaching</a></li>
-		<li><a href="pdfs/Nadathur-CV-Aug22.pdf">cv</a></li>
+		<li><a href="pdfs/Nadathur-CV-Oct22.pdf">cv</a></li>
 		<li><a href="contact.html">contact</a></li>
 	</ul>
 </div>
@@ -39,7 +39,7 @@
 	  the connections between lexically-driven inference and
 	  compositional semantics, and in particular on formal
 	  approaches to causal dependence in lexical and compositional
-	  semantics. My current projects investigate causal reasoning and the cognitive representation of causation through the lens of causal language, and its interactions with aspect and modality.  My dissertation, <a
+	  semantics. My current projects investigate causal reasoning, event structure,  and the cognitive representation of causation through the lens of causal language, and its interactions with aspect and modality.  My dissertation, <a
 	  href="https://ling.auf.net/lingbuzz/005011">Causality, aspect, and
 	  modality in actuality inferences</a>, develops a causal
 	  analysis of actuality inferences from ability modals, based
@@ -88,17 +88,31 @@
 
 	   <img id=self src="images/v1.png"
 	  alt="qp fest 2015 (c) lelia glass">
-	   <h2>recent &#38; upcoming</h2>
+	   <h2>upcoming & recent</h2>
+
+<<<<<<< HEAD
+	   <p> <b> Apr 29, 2023. </b> Keynote.<br> <i>Causal dependence in actuality inferences.</i> <a href="http://chicagolinguisticsociety.org/"><br>Chicago Linguistic Society</a> <br>
+	     </p>
+<p>
+  <b>May 5, 2023. </b> Talk. <br> <i>Modeling progress: causal models and the imperfective paradox.</i><br><a href="http://nyusemantics.github.io/"> NYU Semantics group.</a><br>
+</p>
+	   <p> <b>May 8, 2023.  </b> Talk, title TBA.  <a href="https://nylanguageworkshop.tumblr.com/">New York Philosophy of Language Workshop.</a>
+	     <br>
+	   
+=======
+	   <p> <b> Oct 12, 2022. </b>  <a href="pdfs/Bar-AsherSiegal-Nadathur-COCOA_events-handout.pdf">Talk (with Elitzur Bar-Asher Siegal).  </a><br><i>Causal models are (not) about events.</i> <a href="http://bcopley.com/cocoa">COCOA webinar</a> (special session on events).<br>
+		 </p>
 
 	   <p> <b> July 5, 2022. </b> Talk.<br>  <a href="pdfs/Nadathur-Stuttgart-handout.pdf"><i> Modeling progress: event types, causal models, & the imperfective paradox.</i></a>  Colloquium, Univ. of Stuttgart.<br>
 	     </p>
-<p>
-  <b>June 28, 2022. </b> Talk. <br>  <a href="pdfs/Nadathur-Ability-COCOAJun22.pdf"><i>Causation and the logic of ability.</i></a><a href="https://bcopley.com/"> COCOA </a>hybrid meeting, CNRS Paris.<br>
+>>>>>>> 5c806bafdc64ec86f153b07180480385e9b978b9
 
-  
-</p>
 
-<p> <b>Upcoming:</b><br> Monograph, expected early 2023.  <i>Actuality inferences: causality, aspect, and modality.</i>  Please contact me for further details.</p>
+<<<<<<< HEAD
+<p> <b>recent:</b><br> Monograph, Oxford Univ. Press.  <i>Actuality inferences: causality, aspect, and modality.</i></p>
+=======
+<p> <b>Upcoming:</b><br> Monograph, expected early 2023.  <a href="http://global.oup.com/academic/product/actuality-inferences-9780192849885?lang=en&cc=us"><i>Actuality inferences: causality, aspect, and modality.</i></a>  Please contact me for further details.</p>
+>>>>>>> 5c806bafdc64ec86f153b07180480385e9b978b9
 	 
 	 <!--	 <p><a href="https://sites.google.com/site/sinnundbedeutung21/">SuB
 	 21</a> <br>Edinburgh, Sept 4-6, 2016</p> -->
