@@ -18,7 +18,7 @@
 		<li class="current_page_item"><a href="index.html">about</a></li>
 		<li><a href="research.html">research</a></li>
 		<li><a href="teaching.html">teaching</a></li>
-		<li><a href="pdfs/Nadathur-CV-Oct22.pdf">cv</a></li>
+		<li><a href="pdfs/Nadathur-CV-May23.pdf">cv</a></li>
 		<li><a href="contact.html">contact</a></li>
 	</ul>
 </div>
@@ -90,29 +90,18 @@
 	  alt="qp fest 2015 (c) lelia glass">
 	   <h2>upcoming & recent</h2>
 
-<<<<<<< HEAD
-	   <p> <b> Apr 29, 2023. </b> Keynote.<br> <i>Causal dependence in actuality inferences.</i> <a href="http://chicagolinguisticsociety.org/"><br>Chicago Linguistic Society</a> <br>
+
+	   <p> <b> Apr 29, 2023. </b> Keynote.  <a href="pdfs/Nadathur-CLS59-slides.pdf">[slides]</a><br> <i>Causal dependence in actuality inferences.</i> <br> <a href="http://chicagolinguisticsociety.org/">Chicago Linguistic Society</a> <br>
 	     </p>
 <p>
-  <b>May 5, 2023. </b> Talk. <br> <i>Modeling progress: causal models and the imperfective paradox.</i><br><a href="http://nyusemantics.github.io/"> NYU Semantics group.</a><br>
+  <b>May 5, 2023. </b> Talk. <a href="pdfs/Nadathur-NYU-050523.pdf">[slides]</a> <br> <i>Modeling progress: causal<br>  models and  the imperfective<br> paradox.</i> <br><a href="http://nyusemantics.github.io/"> NYU Semantics group.</a><br>
 </p>
-	   <p> <b>May 8, 2023.  </b> Talk, title TBA.  <a href="https://nylanguageworkshop.tumblr.com/">New York Philosophy of Language Workshop.</a>
+	   <p> <b>May 8, 2023.  </b> Talk. <a href="pdfs/Nadathur-NYPLW-May8-slides.pdf">[slides]</a><br> <i>Causation, implicativity, and the logic of ability.</i> <br> <a href="https://nylanguageworkshop.tumblr.com/">New York Philosophy of Language Workshop.</a>
 	     <br>
 	   
-=======
-	   <p> <b> Oct 12, 2022. </b>  <a href="pdfs/Bar-AsherSiegal-Nadathur-COCOA_events-handout.pdf">Talk (with Elitzur Bar-Asher Siegal).  </a><br><i>Causal models are (not) about events.</i> <a href="http://bcopley.com/cocoa">COCOA webinar</a> (special session on events).<br>
-		 </p>
 
-	   <p> <b> July 5, 2022. </b> Talk.<br>  <a href="pdfs/Nadathur-Stuttgart-handout.pdf"><i> Modeling progress: event types, causal models, & the imperfective paradox.</i></a>  Colloquium, Univ. of Stuttgart.<br>
-	     </p>
->>>>>>> 5c806bafdc64ec86f153b07180480385e9b978b9
+<p> <b>recent:</b><br> Monograph, Oxford Univ. Press.  <i> <a href="https://global.oup.com/academic/product/actuality-inferences-9780192849885?cc=us&lang=en&#:~:text=This%20book%20investigates%20the%20phenomenon,descriptions%20of%20potentialities%20or%20possibilities.">Actuality inferences: causality, aspect, and modality.</i></a></p>
 
-
-<<<<<<< HEAD
-<p> <b>recent:</b><br> Monograph, Oxford Univ. Press.  <i>Actuality inferences: causality, aspect, and modality.</i></p>
-=======
-<p> <b>Upcoming:</b><br> Monograph, expected early 2023.  <a href="http://global.oup.com/academic/product/actuality-inferences-9780192849885?lang=en&cc=us"><i>Actuality inferences: causality, aspect, and modality.</i></a>  Please contact me for further details.</p>
->>>>>>> 5c806bafdc64ec86f153b07180480385e9b978b9
 	 
 	 <!--	 <p><a href="https://sites.google.com/site/sinnundbedeutung21/">SuB
 	 21</a> <br>Edinburgh, Sept 4-6, 2016</p> -->
