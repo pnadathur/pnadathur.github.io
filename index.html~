@@ -18,7 +18,7 @@
 		<li class="current_page_item"><a href="index.html">about</a></li>
 		<li><a href="research.html">research</a></li>
 		<li><a href="teaching.html">teaching</a></li>
-		<li><a href="pdfs/Nadathur-CV-Feb24.pdf">cv</a></li>
+		<li><a href="pdfs/Nadathur-CV-Jun24.pdf">cv</a></li>
 		<li><a href="contact.html">contact</a></li>
 	</ul>
 </div>
@@ -90,7 +90,7 @@
 	  alt="qp fest 2015 (c) lelia glass">
 	   <h2>upcoming & recent</h2>
 
-	   <p> <b> 26-28 Apr 2024. </b><br> Catalyzing causation: hindrance & sufficiency in causative <i>get</i>.<br>  <i>Chicago Linguistic Society</i> 60. 	     <br> <br>
+	   <p> <b> 26-28 Apr 2024. </b><br> <a href="https://pnadathur.github.io/pdfs/Nadathur-get-handout.pdf"> Catalyzing causation: hindrance & sufficiency in causative <i>get</i>.</a><br>  <i>Chicago Linguistic Society</i> 60. 	     <br> <br>
  <b> 5 Apr 2024. </b> <br>On the interaction of aspect and causality in two Hindi/Urdu ability constructions.  <a href="https://pnadathur.github.io/pdfs/Nadathur-FASAL-slideshandout.pdf">Keynote</a>, <i>(Formal) Approaches to South Asian Languages</i> 14. </p>
 	     
 
@@ -131,14 +131,5 @@
 </div>
 </body>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-58704337-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 </html>
