@@ -18,7 +18,7 @@
 		<li><a href="index.html">about</a></li>
 		<li><a href="research.html">research</a></li>
 		<li><a href="teaching.html">teaching</a></li>
-		<li><a href="pdfs/Nadathur-CV-Jun24.pdf">cv</a></li>
+		<li><a href="pdfs/Nadathur-CV-Aug24.pdf">cv</a></li>
 		<li class="current_page_item"><a href="contact.html">contact</a></li>
 	</ul>
 </div>
@@ -29,12 +29,15 @@
 				<h2>contact information</h2>
 <!--	<p>	<strong>Office:</strong>
 	  Institut f&auml; D </p> -->
-	<p><strong>email</strong> <br>
-	 <a href="mailto:nadathur.3@osu.edu"> nadathur DOT 3 AT osu DOT edu</a>, <a href="mailto:pnadathur@gmail.com">pnadathur AT gmail DOT com</a></p>
+				<p><strong>email</strong> <br>
+				    firstname DOT lastname AT nyu, lastname DOT 3 AT osu </p>
+	
 		 <p><strong>address</strong><br>
-	Oxley Hall<br>
-	 1712 Neil Avenue<br>
-			 Columbus, OH 43210<br>
+		     Department of Linguistics, Room 404<br>
+		       New York University<br>
+			 10 Washington Place<br>
+			   New York, NY 10003<br>
+
 		
 </p>
 		</div>
